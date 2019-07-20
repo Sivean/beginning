@@ -6,11 +6,15 @@
 </head>
 <body>
 <img src ="images/firefox-icon.png" alt ="firefox icon">
+
 <p> At mozilla we are a global community of </p>
+
 <ul>
 <li> technologists </li>
 <li> thinkers </li>
 </ul>
+
 <p> read the <a href="https://www.mozilla.org/en-US/about/manifesto/"> mozilla manifesto> </p>
+
 </body>
 </html>
