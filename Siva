@@ -6,7 +6,7 @@
 </head>
 <body>
 <h1>Mozilla is cool</h1>
-<img src ="images/firefox-icon.png" alt ="firefox icon">
+<img src="images/firefox-icon.png" alt="The Firefox logo: a flaming fox surrounding the Earth.">
 
 <p> At mozilla we are a global community of </p>
 
@@ -15,7 +15,7 @@
 <li> thinkers </li>
 </ul>
 
-<p>read the<a href="https://www.mozilla.org/en-US/about/manifesto/">mozilla manifesto></p>
+<p>read the<a href="https://www.mozilla.org/en-US/about/manifesto/">Mozilla manifesto</p>
 
 </body>
 </html>
